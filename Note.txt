@@ -1,0 +1,18 @@
+1. Please Run the file and DataSample in the same path
+2. The running environment of this code needs to meet the following requirements:
+	Operating System: Supports Python and PyTorch on any platform (Windows/Linux/macOS)
+	Python version: ≥ 3.6 (recommended 3.8 or higher)
+	Required dependency libraries (recommended to use the latest stable version):
+	Torch (≥ 1.6, supports GPU optional)
+		numpy
+		scipy
+		scikit-learn
+		pandas
+		matplotlib
+		seaborn
+		tqdm
+		CSV, JSON, Datetime, Time, OS, SYS, Warnings, Random, Traceback (all standard Python libraries)
+	Custom module (must be located in the same directory as the main script or added to the Python path):
+	ReadFinance Dataset (Financial Data Reading and Preprocessing)
+	Optional hardware: GPU and CUDA can accelerate training, but not necessary
+	Other: torch.serialize.add_Safe_globals is used in the code to be compatible with newer PyTorch versions. It is recommended that PyTorch version be ≥ 1.8.

@@ -1,0 +1,9 @@
+
+
+Credit Card
+https://raw.githubusercontent.com/nsethi31/Kaggle-Data-Credit-Card-Fraud-Detection/master/creditcard.csv
+https://media.githubusercontent.com/media/nsethi31/Kaggle-Data-Credit-Card-Fraud-Detection/master/creditcard.csv
+
+CoAt-Set  (Using Wroms as anomalies)
+http://cicresearch.ca/CICDataset/CIC-UNSW/Dataset/
+https://data.mendeley.com/datasets/28tmfg3rzb/2
